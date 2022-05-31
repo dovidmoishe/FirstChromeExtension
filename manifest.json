@@ -1,0 +1,11 @@
+{
+  "name": "Load my socials",
+  "description": "Load your social pages with an extension",
+  "version": "1.0.0",
+  "icons": {"128": "128.png"},
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
